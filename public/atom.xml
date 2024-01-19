@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://devicea.github.io/DeviceA.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2024-01-18T14:42:09.343Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://devicea.github.io/DeviceA.github.io/"/>
+  <updated>2024-01-19T15:37:17.427Z</updated>
+  <id>https://devicea.github.io/DeviceA.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,9 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Test1</title>
+    <link href="https://devicea.github.io/DeviceA.github.io/2024/01/19/Test1/"/>
+    <id>https://devicea.github.io/DeviceA.github.io/2024/01/19/Test1/</id>
+    <published>2024-01-19T15:35:44.000Z</published>
+    <updated>2024-01-19T15:37:17.427Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><h2 id="This-is-a-test"><a href="#This-is-a-test" class="headerlink" title="This is a test"></a>This is a test</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World&quot;&gt;&lt;/a&gt;Hello World&lt;/h1&gt;&lt;h2 id=&quot;This-is-a-test&quot;&gt;&lt;a href=&quot;#Thi</summary>
+      
+    
+    
+    
+    
+    <category term="JustForTest" scheme="https://devicea.github.io/DeviceA.github.io/tags/JustForTest/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/01/18/hello-world/"/>
-    <id>http://example.com/2024/01/18/hello-world/</id>
+    <link href="https://devicea.github.io/DeviceA.github.io/2024/01/18/hello-world/"/>
+    <id>https://devicea.github.io/DeviceA.github.io/2024/01/18/hello-world/</id>
     <published>2024-01-18T14:50:00.160Z</published>
     <updated>2024-01-18T14:42:09.343Z</updated>
     
